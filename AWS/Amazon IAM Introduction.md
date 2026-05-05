@@ -48,18 +48,18 @@ Identity based policy is use to assign the which user to the service and Resourc
 
 ## Create a IAM user and Policies 
 
-user is created biluIAM ![[Pasted image 20260502013808.png]]
+user is created biluIAM ![alt text](screenshot/Pasted%20image%2020260502013808.png)
 
 Here this user unable to list buckets 
 
-![[Pasted image 20260502014939.png]]
+![alt text](screenshot/Pasted%20image%2020260502014939.png)
 
 ## Create policy to see the list bucket.
 
-![[Pasted image 20260502015837.png]]
+![alt text](screenshot/Pasted%20image%2020260502015837.png)
 
 ## Add that policy to the user 
-![[Pasted image 20260502020007.png]]
+![alt text](screenshot/Pasted%20image%2020260502020007.png)
 
 ## Now the user can see the list of buckets 
-![[Pasted image 20260502020131.png]]
+![alt text](screenshot/Pasted%20image%2020260502020131.png)
