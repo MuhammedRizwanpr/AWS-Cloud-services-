@@ -18,10 +18,10 @@ Next is create IAM user because for daily and normal user we should use as IAM u
 
 So we can create IAM user first go to IAM users then select created user
 ![alt text](screenshot/Pasted%20image%2020260429014350.png)
-
+![alt text](screenshot/Pasted%20image%2020260429014519.png)
 After fill it click next 
 
-![alt text](screenshot/Pasted%20image%2020260429014519.png)
+
 
 here we just give administrator access so here this user  have almost permission but not much as root user. for more about IAM policies we will go through.
 
