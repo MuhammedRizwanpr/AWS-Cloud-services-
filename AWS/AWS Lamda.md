@@ -45,10 +45,10 @@ AWS Lambda is a serverless compute service that allows you to run small pieces o
 
 ## Create a lambda function and run 
 
-![[Pasted image 20260502031018.png]]
+![atl text](screenshot/Pasted%20image%2020260502031018.png)
 
 Here when i call a REST API then the lambda function work so it give the data like users name and id .  create function to return the usernames 
-![[Pasted image 20260502031431.png]]
+![alt text](screenshot/Pasted%20image%2020260502031431.png)
 
 Function is worked 
-![[Pasted image 20260502032922.png]]
+![alt text](screenshot/Pasted%20image%2020260502032922.png)
