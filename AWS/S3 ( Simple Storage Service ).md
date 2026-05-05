@@ -35,7 +35,7 @@ Amazon S3 (Simple Storage Service) is a cloud storage service provided by AWS th
 
 ## Create Bucket 
 Add unique name for the bucket 
-![[Pasted image 20260502012517.png]]
+![[screenshot/Pasted image 20260502012517.png]]
 
 ### Object Ownership 
 
