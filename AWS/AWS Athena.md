@@ -2,7 +2,7 @@
 
 ### Step-by-step working
 
-![[Pasted image 20260502040620.png]]
+![alt text](screenshot/Pasted%20image%2020260502040620.png)
 
 
 1. **Store data in S3**
@@ -23,14 +23,14 @@
 
 ## Practical on Athena 
 ### Create two bucket for data to query and store the result 
-![[Pasted image 20260502040211.png]]
+![alt text](screenshot/Pasted%20image%2020260502040211.png)
 
 ### Query editor add the result location 
 ### next give data source 
 
 ### data are add into the editor now we can query 
 first i see the all cars 
-![[Pasted image 20260502042913.png]]
+![alt text](screenshot/Pasted%20image%2020260502042913.png)
 
 ## Conclusion 
 
