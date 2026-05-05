@@ -3,7 +3,7 @@ This Document and Report for show that step by step how to creating Linux instan
 
 ## 1. Create VPC
 -  You need to create VPC so go on VPC and click Create VPC and enter VPC name , CIDR, etc.. 
-![alt text](screenshot/Pasted%20imag%2020260501165549.png)
+![alt text](screenshot/Pasted%20image%2020260501165549.png)
 
 
 ## 2. Create Internet Gateway 
