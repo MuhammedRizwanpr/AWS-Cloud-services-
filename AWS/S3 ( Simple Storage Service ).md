@@ -35,7 +35,7 @@ Amazon S3 (Simple Storage Service) is a cloud storage service provided by AWS th
 
 ## Create Bucket 
 Add unique name for the bucket 
-!(alt text)[screenshot/Pasted image 20260502012517.png]
+![Alt text](screenshot/Pasted image 20260502012517.png)
 
 ### Object Ownership 
 
@@ -44,7 +44,7 @@ Add unique name for the bucket
 ### ACL 
 
 **ACL (Access Control List)** is a basic permission system in S3 that decides **who can access a bucket or object and what they can do**.
-!(Alt text)[Pasted image 20260502012926.png]
+![Alt text](screenshot/Pasted image 20260502012926.png)
 
 ### What is Block Public Access
 
@@ -59,5 +59,5 @@ Add unique name for the bucket
 **Default encryption** in S3 means that **all files uploaded to a bucket are automatically encrypted** without you needing to do anything manually. this settings for who have the key for encryption.
 
 ### Upload the image 
-!(Alt text)[Pasted image 20260502013414.png]
+![Alt text](screenshot/Pasted image 20260502013414.png)
 
