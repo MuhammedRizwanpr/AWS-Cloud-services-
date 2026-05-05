@@ -45,7 +45,7 @@ Add unique name for the bucket
 
 **ACL (Access Control List)** is a basic permission system in S3 that decides **who can access a bucket or object and what they can do**.
 
-![Alt text](screnshot/Pasted image 20260502012926.png)
+![Alt text](screnshot/Pasted%20image%2020260502012926.png)
 
 ### What is Block Public Access
 
@@ -60,5 +60,5 @@ Add unique name for the bucket
 **Default encryption** in S3 means that **all files uploaded to a bucket are automatically encrypted** without you needing to do anything manually. this settings for who have the key for encryption.
 
 ### Upload the image 
-![Alt text](screenshot/Pasted image 20260502013414.png)
+![Alt text](screenshot/Pasted%20image%2020260502013414.png) 
 
