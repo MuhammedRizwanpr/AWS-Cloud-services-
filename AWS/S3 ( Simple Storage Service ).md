@@ -34,8 +34,8 @@ Amazon S3 (Simple Storage Service) is a cloud storage service provided by AWS th
 |Example|OS, database|Images, backups, logs|
 
 ## Create Bucket 
-Add unique name for the bucket 
-![Alt text](screenshot/Pasted image 20260502012517.png)
+Add unique name for the bucket
+![Alt text](screenshot/Pasted-image-20260502012517.png)
 
 ### Object Ownership 
 
@@ -44,8 +44,8 @@ Add unique name for the bucket
 ### ACL 
 
 **ACL (Access Control List)** is a basic permission system in S3 that decides **who can access a bucket or object and what they can do**.
-Pasted image 20260502012926.png
-![Alt text](AWS/screenshot/Pasted image 20260502040211.png)
+
+![Alt text](screnshot/Pasted image 20260502012926.png)
 
 ### What is Block Public Access
 
