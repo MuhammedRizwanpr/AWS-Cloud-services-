@@ -3,7 +3,7 @@ Before create AWS account should know something there is two type of users **Roo
 So here AWS provide **Root User** and **IAM User**. root is only one in a account and only give the user to the head and admin of the company in IT section and good knowledge on AWS.
 
 IAM User give to every employee on the company because there we can add the IAM policies so this policies will give the permission to what to do what on each users.
-![alt text](screenshot/Pasted%20imag%2020260429004217.png)
+![alt text](screenshot/Pasted%20image%2020260429004217.png)
 
 Let's start create account so
 - First step enter you gmail address so we create by root user then enter the username and verify the email 
