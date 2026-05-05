@@ -45,7 +45,7 @@ Add unique name for the bucket
 
 **ACL (Access Control List)** is a basic permission system in S3 that decides **who can access a bucket or object and what they can do**.
 
-![Alt text](screnshot/Pasted%20image%2020260502012926.png)
+![Alt text](screenshot/Pasted%20image%2020260502012926.png)
 
 ### What is Block Public Access
 
