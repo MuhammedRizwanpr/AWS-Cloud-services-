@@ -1,6 +1,6 @@
 In traditional host work, we host the files , code and data into our system like computer or laptop in local but our system is very limited storage and ram so for add more web services is not possible.
 So  there is **Cloud computing** use we can host our web services file , data on on Cloud providing system. Ram , storage , system , network every things can handle by the cloud providers. 
-![[Pasted image 20260428104229.png]]
+![alt text](screenshot/Pasted%20image%2020260428104229.png)
 
 ## Benefits of Cloud hosting 
 
